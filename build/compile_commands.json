@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ilya/fp_ch2/build",
+  "command": "/bin/g++-9   -I/home/ilya/.conan/data/onedpl/20200330/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include -I/home/ilya/.conan/data/onedpl/20200330/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/lib/stdlib -I/home/ilya/.conan/data/tbb/2020.1/_/_/package/cbf3700a07e77fc094c00feba083e4a770f80834/include     -O3 -DNDEBUG    -std=c++17 -o CMakeFiles/fp_ch2.dir/main.cpp.o -c /home/ilya/fp_ch2/main.cpp",
+  "file": "/home/ilya/fp_ch2/main.cpp"
+}
+]

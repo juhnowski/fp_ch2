@@ -1,0 +1,6 @@
+[requires]
+ onedpl/20200330
+
+[generators]
+ txt
+ cmake
